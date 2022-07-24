@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(72, 206, 206);
+    color: rgb(4, 4, 32);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_person,#result_person_name,#result_person_accuracy{
+    color: rgb(201, 18, 18);
+}
+#camera{
+    height: 300px;
+    width: 350px;
+    border: 2px;
+    border-color: rgb(156, 92, 216);
+}
